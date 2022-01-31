@@ -1,0 +1,16 @@
+import * as testAllConstruct from "./allConstruct";
+import * as testBestSum from "./bestSum";
+import * as testCanConstruct from "./canConstruct";
+import * as testCanSum from "./canSum";
+import * as testCountConstruct from "./countConstruct";
+import * as testGridTravel from "./gridTraveler";
+import * as testHowSum from "./howSum";
+import * as testCoinChange from "./coinChange";
+testAllConstruct.Test();
+testBestSum.Test();
+testCanConstruct.Test();
+testCanSum.Test();
+testCountConstruct.Test();
+testGridTravel.Test();
+testHowSum.Test();
+testCoinChange.Test();
